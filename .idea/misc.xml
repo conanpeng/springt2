@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EncodingComponent">
+    <option name="projectEncoding" />
+  </component>
+  <component name="GroovyCompilerProjectConfiguration">
+    <option name="invokeDynamic" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../mutlipleReactor/master" value="1488444737842" />
+        <entry key="$PROJECT_DIR$/../play/framework" value="1454121972310" />
+        <entry key="E:/scala_projects/play_java_test1/play_java_test1" value="1433914426498" />
+        <entry key="E:/scala_projects/sentinel" value="1437488215858" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="D:\libs\sbt-0.13.8\sbt\bin\sbt-launch.jar" />
+  </component>
+</project>
